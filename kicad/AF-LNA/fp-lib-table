@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AF-LNA")(type "KiCad")(uri "${KIPRJMOD}/AF-LNA.pretty")(options "")(descr ""))
+)

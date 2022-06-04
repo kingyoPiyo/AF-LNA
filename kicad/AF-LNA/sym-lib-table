@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AF-LNA_Library")(type "KiCad")(uri "${KIPRJMOD}/AF-LNA_Library.kicad_sym")(options "")(descr ""))
+)
